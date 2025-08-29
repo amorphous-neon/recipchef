@@ -1,5 +1,0 @@
-{
-  "name": "AI Recipe Generator",
-  "description": "An AI-powered web application that generates unique recipes based on the ingredients you have on hand. Simply list your ingredients, and let the AI chef create a delicious meal for you.",
-  "requestFramePermissions": []
-}
